@@ -1,5 +1,13 @@
 ### LineLayout ###
 
+
+
+![Example screenshot](https://github.com/ChenYilong/LineLayout/blob/master/LineLayout.gif)
+
+Check out [my weibo](http://weibo.com/luohanchenyilong/) for more info.
+
+Check out [my twitter](https://twitter.com/stevechen1010) for more info.
+
 ===========================================================================
 DESCRIPTION:
 
